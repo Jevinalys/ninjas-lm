@@ -2,3 +2,10 @@ task_1:create a github repo, done:false
 task_2:create a function to generate primes, done:false
 task_3:create a function to manipulate lists, done:false
 task_4:empty, done:false
+task_5:Data Type(progamming Logic),false
+task_6:FizzBuzz(programming logic),false
+task_7:Car class lab(OOP),false
+task_8:writing proffesionaly,false
+task_9:HTTP & Web,false
+task_10:Front-end,false
+task_11:agile methodology,false
